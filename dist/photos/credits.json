@@ -1,0 +1,202 @@
+{
+  "golf": {
+    "src": "photos/golf.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_VIII_IMG_4021.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 101690
+  },
+  "octavia": {
+    "src": "photos/octavia.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_IV_IMG_3120.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 100740
+  },
+  "leon": {
+    "src": "photos/leon.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:SEAT_Leon_Mk4_IMG_3118.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 151774
+  },
+  "a3": {
+    "src": "photos/a3.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Audi_A3_8Y_IMG_3116.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 193806
+  },
+  "bmw3": {
+    "src": "photos/bmw3.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:BMW_G20_IMG_0167.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 110162
+  },
+  "bmw5": {
+    "src": "photos/bmw5.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:BMW_G30_FL_IMG_5351.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 89398
+  },
+  "mercedes": {
+    "src": "photos/mercedes.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W206_IMG_5793.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 129300
+  },
+  "peugeot": {
+    "src": "photos/peugeot.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:2022_-_Peugeot_308_III_%28C%29_-_003.jpg",
+    "author": "A.BourgeoisP",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 113006
+  },
+  "megane": {
+    "src": "photos/megane.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Renault_Megane_IV_FL_IMG_5424.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 126214
+  },
+  "cx5": {
+    "src": "photos/cx5.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:2018_Mazda_CX-5_Sport_Nav_Diesel_Automatic_2.2.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 231350
+  },
+  "mazda3": {
+    "src": "photos/mazda3.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Mazda3_%28BP%29_X_e-Skyactiv-X_IMG_9015_%28edit_zm%29.jpg",
+    "author": "File:Mazda3 (BP) X e-Skyactiv-X IMG 9015.jpg: Alexander Migl\nderivative work: Zinnmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 126908
+  },
+  "cx30": {
+    "src": "photos/cx30.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:2019_Mazda_CX-30_GT_Sport_Tech_MHEV_2.0_Front.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 165778
+  },
+  "mazda6": {
+    "src": "photos/mazda6.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Mazda6_%28GJ%2C_2015%29_IMG_7608.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 144086
+  },
+  "corolla": {
+    "src": "photos/corolla.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_%28E210%29_sedan_IMG_4190.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 81408
+  },
+  "vitara": {
+    "src": "photos/vitara.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Suzuki_Vitara_IV_3_China_2016-03-29.jpg",
+    "author": "Navigator84",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 98640
+  },
+  "civic_old": {
+    "src": "photos/civic_old.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Honda_Civic_1.8_i-VTEC_%282015%29_%2852091446974%29.jpg",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "size": 222858
+  },
+  "yaris": {
+    "src": "photos/yaris.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Toyota_Yaris_Hybrid_%28XP210%29_1X7A0353.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 159404
+  },
+  "rav4": {
+    "src": "photos/rav4.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:2022_MY_Toyota_RAV4_Hybrid_facelift_XA50.jpg",
+    "author": "Volardiculous",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 180100
+  },
+  "ux": {
+    "src": "photos/ux.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:2019_Lexus_UX250h_in_White%2C_front_left_%28CPW%29.jpg",
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "size": 131074
+  },
+  "nx": {
+    "src": "photos/nx.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Lexus_NX_350h_AWD_AAZH20_Sonic_Quartz_%282%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 175628
+  },
+  "jazz": {
+    "src": "photos/jazz.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:2020_Honda_Jazz_SR_i-MMD_CVT_1.5.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 117624
+  },
+  "civic_new": {
+    "src": "photos/civic_new.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Honda_Civic_XI_IMG001.jpg",
+    "author": "Zotyefan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 133908
+  },
+  "tucson": {
+    "src": "photos/tucson.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_NX4_SWB_Serenity_White_Pearl_%282%29.jpg",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 358942
+  },
+  "sportage": {
+    "src": "photos/sportage.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Kia_Sportage_%28NQ5%29_IMG_6277.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 124526
+  },
+  "clio": {
+    "src": "photos/clio.webp",
+    "file": "https://commons.wikimedia.org/wiki/File:Renault_Clio_V_1X7A0393.jpg",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "size": 197768
+  }
+}

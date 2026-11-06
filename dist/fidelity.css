@@ -1,0 +1,94 @@
+/* Dimensioni e contrasto: la scheda resta leggibile senza zoom. */
+.card .engine{font-size:15px;line-height:1.65;color:#424950;margin-bottom:15px}
+.card .small{font-size:12px;color:#a8241c;letter-spacing:.065em}
+.card .badge{font-size:12px;padding:6px 10px;line-height:1.5}
+.card .badge.caution{color:#6f4718;background:#fff2dc;border-color:#ddc19a}
+.card .badge.honda{color:#284d66;background:#e8f0f7;border-color:#b6cbd9}
+.card .tag{font-size:12px;line-height:1.55;color:#414d55;background:#f3f4f0;border-color:#cbd0c9;padding:6px 9px}
+.card .photocredit{font-size:10px;color:#5a625d;line-height:1.7;margin-bottom:18px}
+.card .photocredit a{color:#4b5951;text-decoration:underline;text-underline-offset:2px}
+.card .enginesheet>summary{font-size:14px;line-height:1.55;padding:15px 22px 15px 0;min-height:52px;color:#28343b}
+.card .enginesheet>summary:after{top:12px;font-size:22px}
+.card .sheetintro{font-size:14px;color:#3d4a50;line-height:1.85}
+.card .enginegrid dt{font-size:11px;color:#56625e;line-height:1.6}
+.card .enginegrid dd{font-size:13px;color:#283b3e;line-height:1.75;margin-top:5px}
+.card .enginegrid>div{padding:11px}
+.card .mechanicalchecks b,.card .mechanicalchecks small{font-size:13px;line-height:1.75}
+.card .mechanicalchecks small{color:#505c58}
+.card .mechanicalchecks li{padding:12px 0}
+.card .mechanicalchecks li>span{font-size:18px;flex-basis:18px}
+.card .checklegend{font-size:12px;color:#4e5a55;line-height:1.8}
+.card .engineblock>b{font-size:14px;color:#273d40}
+.card .engineblock p,.card .engineblock a{font-size:13px;line-height:1.8}
+.card .engineblock p{color:#4c5956}
+.card .marketbox{gap:10px}
+.card .marketbox b{font-size:11px;line-height:1.6;color:#4f5c54}
+.card .marketbox small,.card .marketbox a{font-size:12px;line-height:1.7;color:#4d5951}
+.card .marketbox strong{font-size:29px}
+.card .marketbox>div:first-child strong{font-size:13px}
+.card .marketbox>div{padding:11px}
+.card .actions a{font-size:13px;line-height:1.5;min-height:46px;padding:11px 12px}
+.card .availnote{font-size:12px;line-height:1.8;color:#566158;margin-top:14px}
+.modelplaceholder small{font-size:10px;color:#b8c0c5;line-height:1.7;letter-spacing:.04em}
+.filterFields label{font-size:12px;color:#37434b;line-height:1.6}
+.filterFields input,.filterFields select{font-size:13px;min-height:43px;color:#23323b}
+.chip{font-size:12px;padding:8px 10px}
+.reset{font-size:12px;min-height:43px}
+.filters .fine{font-size:11px;color:#576159;line-height:1.8}
+.resultcontext{font-size:12px;color:#4f5b51;line-height:1.8}
+.toolbar select{font-size:12px}
+.section-heading>p{font-size:14px;color:#50595f}
+.hero-copy p{font-size:16px;color:#c2c5ca}
+.nav-links a{font-size:13px}
+.tool p{font-size:13px;color:#4b5654;line-height:1.8}
+.tool label{font-size:12px;letter-spacing:0}
+.tool button{font-size:11px;min-height:43px}
+.method-notice p{font-size:13px;color:#4f5d50}
+.criteriaGrid span,.criterianote{font-size:13px;line-height:1.85;color:#475747}
+.criteriaGrid b{font-size:14px}
+.criteriaInside h2{margin-bottom:23px}
+.score-method{margin-top:25px;padding-top:20px;border-top:1px solid #cbd0c5}
+.score-method h3{font-size:26px;line-height:1.2;margin-bottom:12px}
+.score-method p{font-size:13px;line-height:1.9;color:#435444;max-width:1000px}
+.fidelity-block{margin-top:20px;border:1px solid #d8ddd6;background:#f8f9f5;padding:14px}
+.fidelity-overview{display:grid;grid-template-columns:170px minmax(0,1fr);gap:15px;align-items:center}
+.dial-box{background:linear-gradient(145deg,#23292f,#101519);border-bottom:3px solid #d3382c;padding:8px 6px 11px;min-width:0}
+.speedometer{display:block;width:100%;height:auto;overflow:visible}
+.dial-track{fill:none;stroke:#414b52;stroke-width:6;stroke-linecap:round}
+.dial-fill{fill:none;stroke:#ed4939;stroke-width:6;stroke-linecap:round}
+.dial-ticks line{stroke:#b7c0c8;stroke-width:1.5}
+.dial-needle{transform:rotate(var(--needle-angle));transform-origin:110px 102px;animation:needle-rise .9s cubic-bezier(.22,.7,.2,1) both}
+.dial-needle path{fill:#f8f9f7}
+.dial-pin{fill:#ef4d3b;stroke:#141b21;stroke-width:2}
+.dial-scale{fill:#c7d0d7;font:600 13px var(--body)}
+.dial-value{fill:#fff;font:700 43px var(--display);letter-spacing:-.01em}
+.dial-percent{font:600 23px var(--display);fill:#ee5b48}
+.dial-caption{fill:#b5c1c9;font:700 10px var(--body);letter-spacing:.07em}
+.fidelity-copy{min-width:0}
+.fidelity-label{display:block;font-size:10px;font-weight:800;line-height:1.6;letter-spacing:.035em;color:#964035;margin-bottom:6px}
+.fidelity-copy>strong{display:block;font:600 24px/1.1 var(--display);color:#253138;margin-bottom:8px}
+.fidelity-copy p{font-size:13px;color:#465953;line-height:1.7}
+.fidelity-copy>small{display:block;font-size:11px;color:#5a6860;line-height:1.7;margin-top:8px}
+.buy-reason{border-top:1px solid #d9dfd6;margin-top:17px;padding-top:15px}
+.buy-reason h4{font:700 15px/1.4 var(--body);margin:0 0 9px;color:#283d36}
+.buy-reason p{font-size:14px;line-height:1.85;color:#40534a}
+.fidelity-details{border-top:1px solid #d8dfd3;margin-top:16px}
+.fidelity-details>summary{padding:13px 0 0;display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:13px;font-weight:700;color:#883c31;cursor:pointer;list-style:none}
+.fidelity-details>summary::-webkit-details-marker{display:none}
+.fidelity-details>summary span{font-size:20px;font-weight:400}
+.fidelity-details[open]>summary span{transform:rotate(45deg)}
+.fidelity-details p{font-size:13px;line-height:1.85;color:#45574c;margin:14px 0}
+.fidelity-details ul{list-style:none;padding:0;margin:15px 0}
+.fidelity-details li{display:grid;grid-template-columns:18px minmax(0,1fr) auto;gap:9px;padding:12px 0;border-top:1px solid #dce2d8}
+.rule-symbol{font-size:17px;font-weight:800;line-height:1.4}
+.fidelity-pass .rule-symbol{color:#347149}.fidelity-fail .rule-symbol{color:#bb372b}.fidelity-unknown .rule-symbol{color:#967120}
+.fidelity-details li b{font-size:13px;line-height:1.65;display:block;color:#2d4438}
+.fidelity-details li small{display:block;font-size:12px;line-height:1.8;color:#4d5d51;margin-top:4px}
+.fidelity-details li em{font-style:normal;font-size:11px;color:#697767;display:block;margin-top:6px}
+.fidelity-details li>strong{font:700 19px var(--display);color:#243d2e;white-space:nowrap}
+@keyframes needle-rise{from{transform:rotate(-90deg)}to{transform:rotate(var(--needle-angle))}}
+@media(min-width:901px) and (max-width:1150px){.fidelity-overview{grid-template-columns:1fr}.dial-box{width:210px;max-width:100%;margin:auto}.fidelity-copy{padding:0 5px}.card .enginegrid{grid-template-columns:1fr}}
+@media(max-width:900px) and (min-width:601px){.fidelity-overview{grid-template-columns:1fr}.dial-box{width:200px;max-width:100%;margin:auto}}
+@media(max-width:600px){.fidelity-overview{grid-template-columns:145px minmax(0,1fr);gap:12px}.fidelity-block{padding:13px}.fidelity-copy>strong{font-size:23px}.fidelity-copy p{font-size:13px}.card .engine{font-size:15px}.card .badge{font-size:12px}.card .tag{font-size:12px}.card .marketbox strong{font-size:28px}.hero-copy p{font-size:14px}.section-heading>p{font-size:14px}.filterFields{grid-template-columns:1fr}.filterFields>div{grid-column:1/-1}.filterFields input,.filterFields select{font-size:14px}.filters .fine{font-size:12px}.card .enginegrid{grid-template-columns:1fr}.tool p{font-size:13px}.card .actions a{font-size:13px}.card .availnote{font-size:12px}.modelplaceholder small{font-size:10px}.toolbar select{max-width:180px;font-size:12px}}
+@media(max-width:360px){.fidelity-overview{grid-template-columns:1fr}.dial-box{width:190px;max-width:100%;margin:auto}.fidelity-copy{padding:0 5px}}
+@media(prefers-reduced-motion:reduce){.dial-needle{animation:none}}
